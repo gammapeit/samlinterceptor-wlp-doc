@@ -1,0 +1,4 @@
+com.gammapeit.telefonica.saml.interceptor
+com.gammapeit.telefonica.saml.interceptor.common
+com.gammapeit.telefonica.saml.interceptor.idp
+com.gammapeit.telefonica.saml.interceptor.sp
